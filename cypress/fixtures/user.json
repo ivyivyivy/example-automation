@@ -1,0 +1,21 @@
+{
+  "name": "Ivy Llamar",
+  "first_name": "Ivy",
+  "last_name": "Llamar",
+  "email": "ivy.llamar@straiv.io",
+  "title": "Mrs.",
+  "password": "WelcomeToStraiv",
+  "date_of_birth": {
+    "day": "22",
+    "month": "11",
+    "year": "1993"
+  },
+  "company": "Straiv",
+  "address": "Test address",
+  "address_2": "Additional address",
+  "country": "Canada",
+  "state": "Baden-Württemberg",
+  "city": "Möglingen",
+  "zip": "71696",
+  "mobile": "+49 1234 56789123"
+}

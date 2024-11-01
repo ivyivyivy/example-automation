@@ -1,0 +1,19 @@
+{
+  "name": "straiv",
+  "version": "1.0.0",
+  "description": "A small project to showcase some basic automation testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automation",
+    "testing",
+    "cypress"
+  ],
+  "author": "Ivy Llamar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.15.1"
+  }
+}
